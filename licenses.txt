@@ -1,0 +1,10 @@
+# login_hash;status;expires;max_amount
+#
+# login_hash — SHA256 хеш логина БК
+# status — active / trial / disabled
+# expires — дата окончания лицензии
+# max_amount — максимум ставки
+#
+# 0 = без ограничения
+
+examplehash;active;2030-01-01;0
