@@ -7,4 +7,4 @@
 #
 # 0 = без ограничения
 
-dc2ccddadb3f01cabd5036bb9af07208c14e70e09318a0ed0199dd98bbe0abae;trial;2030-01-01;0
+dc2ccddadb3f01cabd5036bb9af07208c14e70e09318a0ed0199dd98bbe0abae;trial;2030-01-01;50
